@@ -18,4 +18,9 @@ Explore how to build a podcast summarizer application using Whisper (for speech-
 
 - [Code](https://github.com/Troyanovsky/Building-with-GenAI/blob/main/tutorial_podcast_summary.ipynb)
 
+## Related Repositories
+
+- [Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI): Colab WebUI for many local LLMs that can be run on consumer-grade graphics card or on CPU.
+- [AI-Professional-Prompts](https://github.com/Troyanovsky/AI-Professional-Prompts): a collection of GPT prompts that are carefully designed to provide more consistent, high-quality results
+
 Stay tuned for more exciting tutorials and projects as we continue to explore the potential of generative AI in creating innovative and powerful applications.
