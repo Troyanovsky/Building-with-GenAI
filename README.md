@@ -5,7 +5,13 @@ This repository contains code and tutorials for leveraging generative AI models 
 
 - Input: Look, Read, Listen 
 - Actions: Think, Move 
-- Output: Write, Draw, Say 
+- Output: Write, Draw, Say
+
+## Build with GenAI: Turn Rambling into Coherent Writing
+Learn how to turn voice recording into coherent writing with Whisper V3 Turbo and a locally hosted LLM. This project combines listen, think, and write capabilities.
+
+- [Tutorial Article](https://medium.com/design-bootcamp/build-with-genai-turn-rambling-into-writing-with-whisper-and-local-llm-394e8dd5b83f)
+- [Code](https://github.com/Troyanovsky/Building-with-GenAI/blob/main/tutorial_voice_notes.ipynb)
 
 ## Build with GenAI: Generative AI Search with Local LLM
 Learn how to build a generative search engine powered by a locally hosted LLM. This tutorial demonstrates how to perform online searches with local LLM. This project combines read, move, and write capabilities. 
