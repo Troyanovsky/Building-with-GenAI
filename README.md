@@ -1,4 +1,4 @@
-# Building with GenAI
+# Build with GenAI
 Tutorials and example projects for building applications using generative AI.
 
 This repository contains code and tutorials for leveraging generative AI models to create powerful applications. The tutorials explore the capabilities of these models across various modalities, including:
