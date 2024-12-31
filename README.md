@@ -1,11 +1,17 @@
 # Build with GenAI
-Tutorials and example projects for building applications using generative AI.
+Beginner-friendly tutorials and example projects for building applications using generative AI (LLMs, VLMs, TTS, AST, etc)
 
 This repository contains code and tutorials for leveraging generative AI models to create powerful applications. The tutorials explore the capabilities of these models across various modalities, including:
 
 - Input: Look, Read, Listen 
 - Actions: Think, Move 
 - Output: Write, Draw, Say
+
+## Build with GenAI: Llama Vision Image Tagger with Semantic Search
+Learn how to build a local AI image tagger with Llama 3.2 Vision with Ollama and ChromaDB. This project combines look and write capabilities. This project has its own repo and can be pulled to run locally.
+
+- [Tutorial Article](https://medium.com/design-bootcamp/local-ai-vision-for-your-photos-build-ai-image-tagger-with-llama-vision-and-chromadb-e3b1e0eeac43)
+- [Code Repo](https://github.com/Troyanovsky/llama-vision-image-tagger)
 
 ## Build with GenAI: Turn Rambling into Coherent Writing
 Learn how to turn voice recording into coherent writing with Whisper V3 Turbo and a locally hosted LLM. This project combines listen, think, and write capabilities.
